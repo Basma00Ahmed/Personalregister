@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personalregister", "Personalregister\Personalregister.csproj", "{9ED91E0F-2840-4488-A0E1-45EB260E16FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalregisterTests", "PersonalregisterTests\PersonalregisterTests.csproj", "{2E0FDD54-116F-4B3D-BC5A-C85A9B5948E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED91E0F-2840-4488-A0E1-45EB260E16FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED91E0F-2840-4488-A0E1-45EB260E16FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED91E0F-2840-4488-A0E1-45EB260E16FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED91E0F-2840-4488-A0E1-45EB260E16FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0FDD54-116F-4B3D-BC5A-C85A9B5948E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0FDD54-116F-4B3D-BC5A-C85A9B5948E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0FDD54-116F-4B3D-BC5A-C85A9B5948E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0FDD54-116F-4B3D-BC5A-C85A9B5948E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCF59BC6-D8DB-4180-8146-68A72CF08D01}
+	EndGlobalSection
+EndGlobal

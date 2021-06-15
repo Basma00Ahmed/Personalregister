@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Personalregister": {
+      "commandName": "Project",
+      "commandLineArgs": "basma 22"
+    }
+  }
+}
